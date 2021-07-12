@@ -1,0 +1,25 @@
+#main{
+    background-color:rgb(236, 234, 234) ;
+    border-radius: 8px;
+    box-shadow: -5px 5px 5px #a7a6a6;
+    text-align: center;
+}
+#mainName{
+    font-size: 36px;
+    padding-top: 40px; 
+    text-align: center;
+}
+#mainHeading{
+    font-size: 22px;
+    text-align: center;
+}
+.textInput{
+    width: 350px;
+}
+#forget{
+    padding-left: 220px;
+}
+#loginButton{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
